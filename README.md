@@ -9,7 +9,7 @@
   <h2>Lanney Wang</h2>
   <ul>
     <li>Hi!  I'm Lanney. I'm currently pursuing a Bachelor's Degree in Computer Science at the University of Waterloo.</li>
-    <li>Feel free to look around my profile or view my resume <a href = "https://drive.google.com/file/d/1jocnXFKkOHLCG3e5aQsx0rfUg0XNceFX/view" here.</a></li>
+    <li>Feel free to look around my profile or view my resume <a href = "https://drive.google.com/file/d/1jocnXFKkOHLCG3e5aQsx0rfUg0XNceFX/view"> here.</a></li>
   </ul>
 </div>
 
